@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "playfriendsmp-xBTq.aternos.me:22882",
+    "ip": "playfriendsmp-xBTq.aternos.me",
     "port": 22882,
     "version": "1.21.1"
   },
